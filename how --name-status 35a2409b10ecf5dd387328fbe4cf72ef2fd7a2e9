@@ -1,0 +1,233 @@
+[33mcommit 352a409b10ecf5dd387328fbe4cf72ef2fd7a2e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b572513 916a0dc
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 20 22:08:22 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit b5725130a221fcdaabf010714a2cf7be36799d11[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 20 22:07:56 2026 +0530
+
+    Add Nested Lists example
+
+[33mcommit 916a0dc6b1603dbcbb7d2e85e00fcba133a0f702[m
+Merge: efc64ae fc9c430
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Thu Feb 19 18:58:46 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit efc64ae9c45e7565281ae14526951fa36d764063[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Thu Feb 19 18:58:11 2026 +0530
+
+    Add tuples example
+
+[33mcommit fc9c4305c12568ae5d4de68b93765722f8c526c6[m
+Merge: 47ecae6 90ad2b6
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Wed Feb 18 21:54:49 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 47ecae627db175ebaa3de5c645e14347625ceaf4[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Wed Feb 18 21:54:21 2026 +0530
+
+    Add list comprehension examples
+
+[33mcommit 90ad2b65e5342858d8d705dbd56da8a080934575[m
+Merge: 834c8f8 3497171
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Tue Feb 17 23:14:20 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 834c8f8558bc6231f4eaefda7e4d0a46e2f6dbad[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Tue Feb 17 23:13:36 2026 +0530
+
+    Add leap year function
+
+[33mcommit 3497171e206c5cf01008d331231750dc653f39e2[m
+Merge: c709726 cb1d684
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Mon Feb 16 20:45:18 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit c70972692e477e37277ba5773d27bb122ce7b4d1[m[33m ([m[1;32mmain[m[33m)[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Mon Feb 16 20:44:30 2026 +0530
+
+    Add conditional statements program
+
+[33mcommit cb1d6846345c7fe6500e7ae366a41e3cba56a0d7[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:37:55 2026 +0530
+
+    Delete polymorphism.py
+
+[33mcommit 6fd200757a58233396019ca2c16ebf91c67d02a1[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:37:41 2026 +0530
+
+    Delete standarddeviation.py
+
+[33mcommit 84d9138e4afb6dcb3dd42dc1ee1947f20a433c1b[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:37:25 2026 +0530
+
+    Delete modules.py
+
+[33mcommit 36e2189f6501a291038199642b10d9135b3ed045[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:37:11 2026 +0530
+
+    Delete median.py
+
+[33mcommit ffa99249501b50f1da77c010bf985ba3251dc433[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:36:57 2026 +0530
+
+    Delete mean.py
+
+[33mcommit ae372bcacc5982364e0d1e81549f150ea83d662d[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:36:44 2026 +0530
+
+    Delete mode.py
+
+[33mcommit b90a66921d06b1fd95c94e218815ea0bf2b9bc9a[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:36:32 2026 +0530
+
+    Delete map.py
+
+[33mcommit 35fe8d6b8341f3a7ac35fb1a06ebc87cd280b9d6[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:36:18 2026 +0530
+
+    Delete main.py
+
+[33mcommit 2ffae4b7d3174c3f048de3982c12acb6b38be5ab[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:36:00 2026 +0530
+
+    Delete inheritance.py
+
+[33mcommit 4df4d3af065774f9dc3795eeb026eabb137581d7[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:35:44 2026 +0530
+
+    Delete import.py
+
+[33mcommit b4404f202df397d4cf2f89f9c845bf71328f2a9c[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:35:26 2026 +0530
+
+    Delete filter.py
+
+[33mcommit 6a3a13766b8cc02382fd23e859c5c0b2aa82f426[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:35:07 2026 +0530
+
+    Delete hello.py
+
+[33mcommit 6f8d9f5fc781be356d7c68438d2e2bbe71190c30[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:34:52 2026 +0530
+
+    Delete file_handling.py
+
+[33mcommit 708e08ee86a31d322c02659c4cb2dfb977f4e4ac[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:34:39 2026 +0530
+
+    Delete .idea directory
+
+[33mcommit 9d1e7e07622d7bb11adea2a9328518a5c64a327f[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:34:23 2026 +0530
+
+    Delete math_package directory
+
+[33mcommit 77f066a6e5ac70fe24b4e9a694b258c45a558c44[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:34:03 2026 +0530
+
+    Delete error_handling.py
+
+[33mcommit 037db0b6dd94d28600c88ccef50aa38dd2fee3fe[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:33:48 2026 +0530
+
+    Delete encapsulation.py
+
+[33mcommit 179feb3660a678f2298b55c78d985e54239d608d[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:33:26 2026 +0530
+
+    Delete file1.py
+
+[33mcommit f6b5c5110f889ac3579aa832c6cd49cf7f26b8cb[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:33:12 2026 +0530
+
+    Delete comprehension.py
+
+[33mcommit 7f64c94fb3fa153e21bba9c830c334d138d217b1[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:32:53 2026 +0530
+
+    Delete demo.txt.py
+
+[33mcommit d97c09ef1fc74e7f1b0cc6b8874dafb553401dfe[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:32:38 2026 +0530
+
+    Delete system.py
+
+[33mcommit 3e81b94e9626ca2df78243ecbcd72320fd8fb518[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:29:20 2026 +0530
+
+    Delete class.py
+
+[33mcommit a69ed3166070a361bf9cde3c5ac7931fe21f6dfc[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:28:08 2026 +0530
+
+    Delete arithmetic.py
+
+[33mcommit 82d0b90c033cfa6e7a6e61ccf939a915b9514f21[m
+Merge: 1564c5f d2492ab
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:19:32 2026 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1564c5f1eaf6b33f527c12184eac200653905073[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Fri Feb 13 22:17:00 2026 +0530
+
+    Added loops program
+
+[33mcommit d2492abff5b9be6a0fe7e09c211fa43f13a6cf93[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Thu Feb 12 22:26:23 2026 +0530
+
+    Create README.md
+
+[33mcommit af402aa4fb0a7f76cd93694eecb922e962c9c4bc[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Thu Feb 12 22:00:22 2026 +0530
+
+    Added new python practice files
+
+[33mcommit 6ce33b8e59102cfeaac2ab9492092b9dd9f9ece0[m
+Author: Nandini56-bn <nandini260719@gmail.com>
+Date:   Thu Feb 12 21:35:39 2026 +0530
+
+    first commit
