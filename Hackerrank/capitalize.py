@@ -10,3 +10,4 @@ def solve(s):
             result += s[i]
 
     return result
+
