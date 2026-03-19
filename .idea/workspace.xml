@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b28b163a-7f14-4f8c-9c2b-7d6e3c5a3fba" name="Changes" comment="Alphabet Rangoli program">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackerrank/Name.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nandini56-bn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nandini56-bn/hackerrank-python-solutions.git&quot;,
+    &quot;accountId&quot;: &quot;aedff144-e473-4fa0-8eeb-09a2dd95a5d3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AlJ9lThrJvkRJ29DWdjJwfnJ0n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.percentage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_alignment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nandini/PycharmProjects/PythonProject3&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nandini\PycharmProjects\PythonProject3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b28b163a-7f14-4f8c-9c2b-7d6e3c5a3fba" name="Changes" comment="" />
+      <created>1773161075535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773161075535</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added hackerrank list problem">
+      <option name="closed" value="true" />
+      <created>1773161450204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773161450204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added hackerrank problems">
+      <option name="closed" value="true" />
+      <created>1773162363531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773162363531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finding percentage problem">
+      <option name="closed" value="true" />
+      <created>1773235401602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773235401603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="find the runnerup score problem">
+      <option name="closed" value="true" />
+      <created>1773236531822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773236531822</updated>
+    </task>
+    <task id="LOCAL-00005" summary="find the runnerup score problem">
+      <option name="closed" value="true" />
+      <created>1773237397663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773237397663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added swapcase problem">
+      <option name="closed" value="true" />
+      <created>1773324156840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773324156840</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding string validators program">
+      <option name="closed" value="true" />
+      <created>1773581930857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773581930858</updated>
+    </task>
+    <task id="LOCAL-00008" summary="text alignment program">
+      <option name="closed" value="true" />
+      <created>1773676108987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773676108987</updated>
+    </task>
+    <task id="LOCAL-00009" summary="string formatting added">
+      <option name="closed" value="true" />
+      <created>1773760085210</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773760085210</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Alphabet Rangoli program">
+      <option name="closed" value="true" />
+      <created>1773855458644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773855458644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Alphabet Rangoli program">
+      <option name="closed" value="true" />
+      <created>1773855991122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773855991122</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added hackerrank list problem" />
+    <MESSAGE value="added hackerrank problems" />
+    <MESSAGE value="finding percentage problem" />
+    <MESSAGE value="find the runnerup score problem" />
+    <MESSAGE value="added swapcase problem" />
+    <MESSAGE value="adding string validators program" />
+    <MESSAGE value="text alignment program" />
+    <MESSAGE value="string formatting added" />
+    <MESSAGE value="Alphabet Rangoli program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alphabet Rangoli program" />
+  </component>
+</project>
